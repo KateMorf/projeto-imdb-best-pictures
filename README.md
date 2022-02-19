@@ -11,4 +11,4 @@
 ### (Nominees) https://www.imdb.com/search/title/?groups=oscar_best_picture_nominees&sort=year,desc&count=200&view=advanced
 
 ## Link da apresentação de slides: 
-https://docs.google.com/presentation/d/1_XrPFADRqFKMNLUfoUbI4SSNlXeQdVAsPG8UxD163nE/edit#slide=id.g115f587779a_0_12
+https://docs.google.com/presentation/d/1_XrPFADRqFKMNLUfoUbI4SSNlXeQdVAsPG8UxD163nE/edit?usp=sharing
